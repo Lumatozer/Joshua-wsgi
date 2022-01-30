@@ -10,7 +10,7 @@ Instructions:
   
     1. Git clone the repo using git.
     
-    2. Run the wsgi.py using python wsgi.py.
+    2. Run the wsgi.py using "Python wsgi.py" command.
     
     3. Enter the text or html you wanna show on the client side.
     
@@ -36,6 +36,9 @@ Instructions:
     6. If there were no errors then you can go to 127.0.0.1:8080 to see your website live.
     
     7. To see it using your ip address you need to port forward your pc via the router.
+    
+ Requirements:
+    1. Python
     
     
 Thanks for testing out my wsgi.
