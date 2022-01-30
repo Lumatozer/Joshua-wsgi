@@ -36,10 +36,10 @@ Instructions:
     6. If there were no errors then you can go to 127.0.0.1:8080 to see your website live.
     
     7. To see it using your ip address you need to port forward your pc via the router.
-    
- Requirements:
+
+  Requirements:
     1. Python
-    
+    2. Wsgiref(if not installed by default)
     
 Thanks for testing out my wsgi.
 
