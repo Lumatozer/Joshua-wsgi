@@ -37,10 +37,12 @@ Instructions:
     
     7. To see it using your ip address you need to port forward your pc via the router.
 
-  Requirements:
-    1. Python
-    2. Wsgiref(if not installed by default)
-    
+Requirements
+
+  1. Python
+
+  2. Wsgiref
+
 Thanks for testing out my wsgi.
 
 This was made for testing purposes only and is not meant to replace wsgi's like Apache.
