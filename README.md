@@ -37,10 +37,8 @@ Instructions:
     
     7. To see it using your ip address you need to port forward your pc via the router.
 
-Requirements
-
+Requirements:
   1. Python
-
   2. Wsgiref
 
 Thanks for testing out my wsgi.
