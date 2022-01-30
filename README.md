@@ -16,14 +16,14 @@ Instructions:
     
     4. Press Enter Key.
     
-    5. If there were no erros then you can go to 127.0.0.1:8080 to see your website live.
+    5. If there were no errors then you can go to 127.0.0.1:8080 to see your website live.
     
     6. To see it using your ip address you need to port forward your pc via the router.
     
     
   Windows:
   
-    1. Download the zip on the main repi page.
+    1. Download the zip on the main repo page.
     
     2. Unzip and then run the start.bat file.
     
@@ -33,13 +33,13 @@ Instructions:
     
     5. Press Enter Key.
     
-    6. If there were no erros then you can go to 127.0.0.1:8080 to see your website live.
+    6. If there were no errors then you can go to 127.0.0.1:8080 to see your website live.
     
     7. To see it using your ip address you need to port forward your pc via the router.
     
     
-Thanks for testing out my wsgi
+Thanks for testing out my wsgi.
 
-This was made for testing purposes only and is not meant to replace wsgi like apache.
+This was made for testing purposes only and is not meant to replace wsgi's like Apache.
 
 Regards Aarav Dayal
